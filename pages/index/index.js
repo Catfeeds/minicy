@@ -347,7 +347,7 @@ Page({
 
    onShareAppMessage: function () {
       return {
-          title: 'LeeFon之訫殇',
+        title: '铖·驿',
          path: '/pages/index/index',
          success: function (res) {
             // 分享成功

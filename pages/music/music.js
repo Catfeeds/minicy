@@ -363,7 +363,7 @@ Page({
     wx.playBackgroundAudio({
       dataUrl: info.papers,
       title: info.name,
-      coverImgUrl: 'http://wx.qlogo.cn/mmopen/vi_32/DYAIOgq83er3icKiaFLfTtwmk5fP3fBxWibaBBlDZWGRicQw1Cmujp6mCwwSwTDlGia0icMDZRQKJZcsKeNFUdqIrUrQ/0',
+      coverImgUrl: 'http://wx.qlogo.cn/mmopen/vi_32/nPSNJIicqaTAHCicxuBxBB5uibpPQkKZLcWzuLDOjicQiaPjCg3NQjDg3Neic3j3q54URx1PzaF5gKvVFr4gXZ72ibfJA/0',
       complete: function (res) {
         var shopid = info.id;
         that.setData({

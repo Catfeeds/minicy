@@ -8,7 +8,7 @@ App({
     is_new: 0,
     last_time: 0,
     userId: 0,
-    hostUrl: 'https://gzleren.com/minimwgx/index.php',
+    hostUrl: 'https://gzleren.com/minicy/index.php',
   },
 
   onLaunch: function () {

@@ -31,7 +31,7 @@
   "window": {
     "backgroundTextStyle": "dark",
     "navigationBarBackgroundColor": "#555",
-    "navigationBarTitleText": "LeeFon之訫殇",
+    "navigationBarTitleText": "铖·驿",
     "navigationBarTextStyle": "white"
   },
   "tabBar": {
@@ -44,13 +44,13 @@
         "pagePath": "pages/index/index",
         "iconPath": "pages/images/reww.png",
         "selectedIconPath": "pages/images/rew.png",
-        "text": "忘我"
+        "text": "聆听"
       },
       {
         "pagePath": "pages/article/article",
         "iconPath": "pages/images/rww.png",
         "selectedIconPath": "pages/images/rw.png",
-        "text": "分享"
+        "text": "记录"
       },
       {
         "pagePath": "pages/user/user",
